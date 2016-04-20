@@ -9,9 +9,8 @@ Please check the resolution switch in your Zero 3. It can either be 10 microstep
 
 Emergency stop pin is not enabled. If needed, please specify it to parallel port number 11.
 
-
 Please put the files to /home/username/linuxcnc/configs/
-====
+
 
 
 Created on 20 April 2016
